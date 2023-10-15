@@ -47,4 +47,11 @@ class Home extends CI_Controller{
 		$this->load->view("tangguhindustri");
 		$this->load->view("templates_home/footer");
 	}
+
+	public function sejarah()
+	{
+		$this->load->view('templates_home/header');
+		$this->load->view('sejarah');
+		$this->load->view('templates_home/footer');
+	}
 }
