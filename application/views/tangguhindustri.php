@@ -4,7 +4,7 @@
             <td><h1><center>TANGGUH INDUSTRI</center></h1></td>
         </tr>
         <tr>
-            <td><center><div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <td><center><div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="2500">
                       <div class="carousel-inner">
                         <div class="carousel-item active">
                           <img class="d-block w-75" src="<?php echo base_url() ?>assets/img/industri1.jpg" height="350px" alt="First slide" >

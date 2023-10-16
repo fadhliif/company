@@ -2,7 +2,7 @@
 	<table cellpadding="10">
 		<tr>
 		<td><center>
-			<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+			<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="2500">
                       <div class="carousel-inner">
                         <div class="carousel-item active">
                           <img class="d-block w-75" src="<?php echo base_url() ?>assets/img/meeting1.jpg" height="350px"  alt="First slide" >

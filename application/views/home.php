@@ -4,7 +4,7 @@
             <!-- Heading Row-->
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
                 <div class="col-lg-7">
-                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="2500">
                       <div class="carousel-inner">
                         <div class="carousel-item active">
                           <img class="d-block w-100" src="<?php echo base_url() ?>assets/img/meeting1.jpg" height="400px" alt="First slide" >
